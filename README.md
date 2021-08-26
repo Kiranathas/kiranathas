@@ -95,7 +95,7 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
 
-<h4> Datos no laborales </h4>
+<h4> Datos no laborales: </h4>
 
 <img align = 'right' src = "https://media.giphy.com/media/5b0kImM7p9fZzc361N/giphy.gif" width = "230">
 
@@ -115,7 +115,7 @@
   <a href="https://twitter.com/kiranathas">
     <img align="left" alt="Florencia Sun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />
   </a>
- <a href="https://steamcommunity.com/profiles/kiranathas/">
+ <a href="https://steamcommunity.com/profiles/76561198268152728/">
     <img align="left" alt="Florencia Sun's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/steam.svg" />
   </a>
   <a href="https://discord.com/channels/@kiranathas/">
