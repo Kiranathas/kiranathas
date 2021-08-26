@@ -1,16 +1,24 @@
+
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
+
 <h1> 👋¡Hola! Soy Florencia Sun . </h1>
-<img align = 'right' src = "https://media.giphy.com/media/Yr6KlhMdKRnM6CY40W/giphy.gif" width = "230">
+<img align = 'right' src = "https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width = "230">
 
 <h2> 🌻 Acerca de mí </h2>
 
 - 🎓 Estudio **abogacía** en la UBA y **Data Scientis** en CoderHouse.
-- 📊 En el 2023 comenzaré a cursar la carrera en **Licenciatura de Datos** en la UBA.
-- 💼 Actualmente ando en búsquedad laboral activa, sobre todo en lo que es BI.
+- 📊 En el 2023 comenzaré a cursar la carrera de **Licenciatura de Datos** en la UBA.
+- 💼 Actualmente ando en búsqueda laboral activa, sobre todo en lo que es BI.
 - 🌎 Se hablar **Chino** (A1) e **Inglés** (B1) aunque sigo aprendiendo.
-- 🎮 Adoro los videojuegos (sobre todo los de superviviencia).
 
-
+<br/>
+<br/>
 <h3> 📚 Conocimientos </h3>
+
+<img align = 'right' src = "https://media.giphy.com/media/Yr6KlhMdKRnM6CY40W/giphy.gif" width = "230">
+
 <div>
   
 - 💻 
@@ -65,7 +73,7 @@
 <br/>
 
 
-<h3> 📱 Conéctate conmigo </h3>
+<h3> 📲 Para Contactarme:  </h3>
 
 <p>
   <a href="https://br.linkedin.com/in/florencia-sun">
@@ -74,19 +82,50 @@
   <a href="mailto:sunflorencia98@gmail.com">
     <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
   </a>
-  <a href="https://www.instagram.com/kiranathas/?hl=es-la">
+  <a href="https://www.hackerrank.com/fsun1998?hr_r=1">
+    <img align="left"  alt="HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=541157668937">
+    <img align="left"  alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg"  />
+  </a>
+</p>
+<br/>
+<br/>
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
+
+<h4> Datos no laborales </h4>
+
+<img align = 'right' src = "https://media.giphy.com/media/5b0kImM7p9fZzc361N/giphy.gif" width = "230">
+
+- 📖 Me gusta leer (aguanten los policiales)
+- 🎮 Adoro los videojuegos (sobre todo los de superviviencia).
+- 🎹 Se tocar el piano (pero poquito)
+- 🎧 Escuchar música mejora todo.
+- ✈️ Mi sueño es conocer tantos países como pueda.
+<br/>
+
+<h3> 📱 Podes Agregarme En: </h3>
+
+<p>
+ <a href="https://www.instagram.com/kiranathas/?hl=es-la">
     <img align="left" alt="Florencia Sun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
   </a>
   <a href="https://twitter.com/kiranathas">
     <img align="left" alt="Florencia Sun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />
   </a>
-  <a href="https://www.hackerrank.com/fsun1998?hr_r=1">
-    <img align="left"  alt="HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg"  />
+ <a href="https://steamcommunity.com/profiles/kiranathas/">
+    <img align="left" alt="Florencia Sun's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/steam.svg" />
   </a>
-
+  <a href="https://discord.com/channels/@kiranathas/">
+    <img align="left" alt="Florencia Sun's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/discord.svg" />
+  </a>
 </p>
 
+
 <br/>
 <br/>
 <br/>
+
 ⭐️ De [Florencia Sun] (https://github.com/Kiranathas)
