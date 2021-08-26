@@ -8,10 +8,10 @@
 
 <h2> 🌻 Acerca de mí </h2>
 
-- 🎓 Estudio **abogacía** en la UBA y **Data Scientis** en CoderHouse.
+- 🎓 Estudio **abogacía** en la UBA y **Data Scientist** en CoderHouse.
 - 📊 En el 2023 comenzaré a cursar la carrera de **Licenciatura de Datos** en la UBA.
-- 💼 Actualmente ando en búsqueda laboral activa, sobre todo en lo que es BI.
-- 🌎 Se **Chino** (A2) e **Inglés** (B1) aunque sigo aprendiendo.
+- 💼 Actualmente estoy en búsqueda laboral activa, sobre todo en lo que es BI.
+- 🌎 Sé **Chino** (A2) e **Inglés** (B1) aunque sigo aprendiendo.
 
 <br/>
 <br/>
