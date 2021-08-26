@@ -11,7 +11,7 @@
 - 🎓 Estudio **abogacía** en la UBA y **Data Scientis** en CoderHouse.
 - 📊 En el 2023 comenzaré a cursar la carrera de **Licenciatura de Datos** en la UBA.
 - 💼 Actualmente ando en búsqueda laboral activa, sobre todo en lo que es BI.
-- 🌎 Se hablar **Chino** (A2) e **Inglés** (B1) aunque sigo aprendiendo.
+- 🌎 Se **Chino** (A2) e **Inglés** (B1) aunque sigo aprendiendo.
 
 <br/>
 <br/>
