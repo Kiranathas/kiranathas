@@ -50,6 +50,7 @@
 - 📈 
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
+  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
 </div>
 
 <br/>
