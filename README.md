@@ -35,7 +35,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)
   
 - ⚙️ 
@@ -51,6 +50,17 @@
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
 </div>
 
+
+<div>
+  <h3> 📚 Pretendo aprender en poco: </h3>
+  
+   ![Ruby(Estadisticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+  
+ </div>
+ 
 <br/>
 <h3> 🧮 Estadísticas </h3>
 
