@@ -24,7 +24,6 @@
 - 💻 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Ruby(Estadisticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   
 - 🌐 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -49,7 +48,6 @@
   
 - 📈 
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
 </div>
 
