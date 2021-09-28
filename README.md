@@ -8,6 +8,7 @@
 
 <h2> 🌻 Acerca de mí </h2>
 
+- 👩‍💻 Soy **Data Analytics** egresada en CoderHouse.
 - 🎓 Estudio **abogacía** en la UBA y **Data Scientist** en CoderHouse.
 - 📊 En el 2023 comenzaré a cursar la carrera de **Licenciatura de Datos** en la UBA.
 - 💼 Actualmente estoy en búsqueda laboral activa, sobre todo en lo que es BI.
