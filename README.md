@@ -53,7 +53,7 @@
 
 
 <div>
-  <h3> 📚 Pretendo aprender en poco: </h3>
+  <h3> 📚 En poco pretendo aprender: </h3>
   
    ![Ruby(Estadisticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
    ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
