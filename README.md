@@ -8,11 +8,9 @@
 
 <h2> 🌻 Acerca de mí </h2>
 
-- 👩‍💻 Soy **Data Analytics** egresada en CoderHouse.
-- 🎓 Estudio **abogacía** en la UBA y **Data Scientist** en CoderHouse.
-- 📊 En el 2023 comenzaré a cursar la carrera de **Licenciatura de Datos** en la UBA.
-- 💼 Actualmente estoy en búsqueda laboral activa, sobre todo en lo que es BI.
-- 🌎 Sé **Chino** (A2) e **Inglés** (B1) aunque sigo aprendiendo.
+- 👩‍💻 Soy **Data Analytics** egresada en **CoderHouse**.
+- 🎓 Soy **Abogada** recibida en la **Universidad de Buenos Aires** con orientación en la rama de Penal y Privado.
+- 🌎 Sé **Chino** (A2) e **Inglés** (B1) aunque pretendo seguir aprendiendo.
 
 <br/>
 <br/>
@@ -24,13 +22,11 @@
   
 - 💻 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
 - 🌐 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   
 - 🛢
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -50,17 +46,6 @@
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
 </div>
-
-
-<div>
-  <h3> 📚 En poco pretendo aprender: </h3>
-  
-   ![Ruby(Estadisticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  
-  
- </div>
  
 <br/>
 <h3> 🧮 Estadísticas </h3>
