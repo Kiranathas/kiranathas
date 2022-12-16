@@ -8,7 +8,7 @@
 
 <h2> 🌻 Acerca de mí </h2>
 
-- 👩‍💻 Soy **Data Analytics** egresada en **CoderHouse**.
+- 👩‍💻 Soy **Analista de datos** egresada en **CoderHouse**.
 - 🎓 Soy **Abogada** recibida en la **Universidad de Buenos Aires** con orientación en la rama de Penal y Privado.
 - 🌎 Sé **Chino** (A2) e **Inglés** (B1) aunque pretendo seguir aprendiendo.
 
