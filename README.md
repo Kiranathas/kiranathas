@@ -9,10 +9,11 @@
 <h2> 🌻 Acerca de mí </h2>
 
 - 👩‍💻 Soy **Analista de datos** egresada en **CoderHouse**.
+- 🧮 **Futura Científica de Datos**, estoy estudiando la **Licenciatura de Datos en la UBA**.
 - 🎓 Soy **Abogada** recibida en la **Universidad de Buenos Aires** con orientación en la rama de Penal y Privado.
 - 🌎 Sé **Chino** (A2) e **Inglés** (B1) aunque pretendo seguir aprendiendo.
 
-<br/>
+
 <br/>
 <h3> 📚 Conocimientos </h3>
 
@@ -46,28 +47,6 @@
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
 </div>
- 
-<br/>
-<h3> 🧮 Estadísticas </h3>
-
-<a href="https://github.com/kiranathas/convoychat" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranathas&layout=compact=true&theme=gotham" />
-</a>
-<a href="https://github.com/kiranathas/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kiranathas&show_icons=true&theme=gotham" />
-</a>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 
@@ -86,44 +65,15 @@
   <a href="https://api.whatsapp.com/send?phone=541157668937">
     <img align="left"  alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg"  />
   </a>
+  <a href="https://www.instagram.com/kiranathas/?hl=es-la">
+    <img align="left" alt="Florencia Sun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
+  </a>
 </p>
 <br/>
 <br/>
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-
-<h4> Datos no laborales: </h4>
-
-<img align = 'right' src = "https://media.giphy.com/media/5b0kImM7p9fZzc361N/giphy.gif" width = "230">
-
-- 📖 Me gusta leer (aguanten los policiales)
-- 🎮 Adoro los videojuegos (sobre todo los de superviviencia).
-- 🎹 Se tocar el piano (pero poquito)
-- 🎧 Escuchar música mejora todo.
-- ✈️ Mi sueño es conocer tantos países como pueda.
-<br/>
-
-<h3> 📱 Podes Agregarme En: </h3>
-
-<p>
- <a href="https://www.instagram.com/kiranathas/?hl=es-la">
-    <img align="left" alt="Florencia Sun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
-  </a>
-  <a href="https://twitter.com/kiranathas">
-    <img align="left" alt="Florencia Sun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />
-  </a>
- <a href="https://steamcommunity.com/profiles/76561198268152728/">
-    <img align="left" alt="Florencia Sun's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/steam.svg" />
-  </a>
-  <a href="https://discord.com/channels/@kiranathas/">
-    <img align="left" alt="Florencia Sun's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/discord.svg" />
-  </a>
-</p>
-
-
-<br/>
-<br/>
 <br/>
 
 ⭐️ De [Florencia Sun] (https://github.com/Kiranathas)
