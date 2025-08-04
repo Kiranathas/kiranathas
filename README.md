@@ -37,7 +37,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Serve-333333?style=flat&logo=Microsoft_SQL_Serve)
-  ![MicroStrategy](https://img.shields.io/badge/-MicroStrategy333333?style=flat&logo=MicroStrategy)
+  ![MicroStrategy](https://img.shields.io/badge/-MicroStrategy-333333?style=flat&logo=MicroStrategy)
   
 - ⚙️ 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
