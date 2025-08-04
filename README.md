@@ -11,8 +11,7 @@
 - 👩‍💻 Soy **Analista de datos** egresada en **CoderHouse**.
 - 🧮 **Futura Científica de Datos**, estoy estudiando la **Licenciatura de Datos en la UBA**.
 - 🎓 Soy **Abogada** recibida en la **Universidad de Buenos Aires** con orientación en la rama de Penal y Privado.
-- 🌎 Sé **Chino** (A2) e **Inglés** (B1) aunque pretendo seguir aprendiendo.
-
+- 🌎 Dominio de **Chino (A2)** e **Inglés (B1)**, con interés en continuar mi aprendizaje
 
 <br/>
 <h3> 📚 Conocimientos </h3>
@@ -24,6 +23,8 @@
 - 💻 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)
   
 - 🌐 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
