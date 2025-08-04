@@ -22,7 +22,8 @@
 <div>
   
 - 💻 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
   
 - 🌐 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -33,7 +34,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)
+  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Serve-333333?style=flat&logo=Microsoft_SQL_Serve)
   
 - ⚙️ 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -41,11 +42,12 @@
   
 - 🔧 
   ![Código de Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Geany](https://img.shields.io/badge/-Geany-333333?style=flat&logo=geany)
+
   
 - 📈 
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
+  ![Locker Studio](https://img.shields.io/badge/-LockerStudio-333333?style=flat&logo=LockerStudio)
 </div>
 <br/>
 
