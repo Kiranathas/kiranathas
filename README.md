@@ -67,11 +67,8 @@
   <a href="https://www.hackerrank.com/fsun1998?hr_r=1">
     <img align="left"  alt="HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=541157668937">
+  <a href="https://api.whatsapp.com/send?phone=541128539430">
     <img align="left"  alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg"  />
-  </a>
-  <a href="https://www.instagram.com/kiranathas/?hl=es-la">
-    <img align="left" alt="Florencia Sun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
   </a>
 </p>
 <br/>
