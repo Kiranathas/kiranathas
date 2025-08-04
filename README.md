@@ -25,6 +25,7 @@
   ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
   ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)
+  ![IA Generativa](https://img.shields.io/badge/-IA_Generativa-333333?style=flat&logo=IA_Generativa)
   
 - 🌐 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -36,6 +37,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Serve-333333?style=flat&logo=Microsoft_SQL_Serve)
+  ![MicroStrategy](https://img.shields.io/badge/-MicroStrategy333333?style=flat&logo=MicroStrategy)
   
 - ⚙️ 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -48,7 +50,7 @@
 - 📈 
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
-  ![Locker Studio](https://img.shields.io/badge/-LockerStudio-333333?style=flat&logo=LockerStudio)
+  ![Locker Studio](https://img.shields.io/badge/-Locker_Studio-333333?style=flat&logo=Locker_Studio)
 </div>
 <br/>
 
